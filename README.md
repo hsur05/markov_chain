@@ -16,8 +16,8 @@ This project demonstrates how to model weather transitions using a Markov proces
 ## Requirements
 
 - Python 3.x
-- NumPy
-- Matplotlib
+- NumPy (imported within code)
+- Matplotlib (imported within code)
 
 ## How It Works
 
